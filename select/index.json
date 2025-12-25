@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "run rabbit junk",
+  "base_artist": "HIDE",
+  "createdAt": "2025-12-25T07:36:43.407743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Run Rabbit Junk",
+      "artist": "HIDE",
+      "has_synced": true,
+      "path": "select/01_Run_Rabbit_Junk_HIDE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "run rabbit junk",
+      "artist": "hide",
+      "has_synced": true,
+      "path": "select/02_run_rabbit_junk_hide.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "run rabbit junk",
+      "artist": "HIDE",
+      "has_synced": false,
+      "path": "select/03_run_rabbit_junk_HIDE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "run rabbit junk",
+      "artist": "GITS101: HIDE",
+      "has_synced": true,
+      "path": "select/04_run_rabbit_junk_GITS101__HIDE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "run rabbit junk",
+      "artist": "HIDE",
+      "has_synced": false,
+      "path": "select/pl_01_run_rabbit_junk_HIDE.txt"
+    }
+  ]
+}
